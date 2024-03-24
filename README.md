@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there! I'm Kari 👋
 
-<!--
-**karisakib/karisakib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a hobbyist Software Developer and QA Engineer by profession. 
 
-Here are some ideas to get you started:
+I currently live in the US. 🇺🇸
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have been building API, FullStack Apps, and Data Science Apps for few years.
+
+I like to build things with React for frontend, Node and Python for the backend, SQL and NoSQL databases, Docker, Python, JavaScript.
+
+If my open source projects are useful for your product/company you can also sponsor my work on them. ☕
+
+You can find me on:
+
+My website: karisakib@gmail.com
+GitHub as @karisakib (you are here)
+LinkedIn
