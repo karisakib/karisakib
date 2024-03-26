@@ -10,6 +10,10 @@ I like to build things with React for frontend, Node and Python for the backend,
 
 If my open source projects are useful for your product/company you can also sponsor my work on them. ☕
 
+Here's a total list of tools I use:
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 You can find me on:
 
 My website: karisakib@gmail.com
