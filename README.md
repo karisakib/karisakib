@@ -12,7 +12,7 @@ If my open source projects are useful for your product/company you can also spon
 
 Here's a total list of tools I use:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,apple,aws,azure,bash,cs,cypress,d3,django,docker,dotnet,electron,express,fastapi,figma,flask,git,github,githubactions,gitlab,gherkin,graphql,idea,java,latex,md,mongodb,mysql,nextjs,nodejs,npm,obsidian,posgres,postmanpy,sklearn,selenium,tailwind,tauri,tensorflow,terraform,ts,vercel,visualstudio,vitevscode,wordpress)](https://github.com/karisakib/karisakib)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,apple,aws,azure,bash,cs,cypress,d3,django,docker,dotnet,electron,express,fastapi,figma,flask,git,github,githubactions,gitlab,gherkin,graphql,idea,java,latex,md,mongodb,mysql,nextjs,nodejs,npm,obsidian,posgres,postman,py,sklearn,selenium,tailwind,tauri,tensorflow,terraform,ts,vercel,visualstudio,vite,vscode,wordpress)](https://github.com/karisakib/karisakib)
 
 You can find me on:
 
