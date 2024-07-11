@@ -12,20 +12,14 @@ If my open source projects are useful for your product/company you can also spon
 
 Here's a total list of tools I use:
 
-Languages
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,cs,java,latex,md)](https://github.com/karisakib/karisakib)
+| Syntax      | Icon |
+| ----------- | ----------- |
+| Languages      | [![My Skills](https://skillicons.dev/icons?i=js,ts,py,cs,java,latex,md)](https://github.com/karisakib/karisakib)    |
+| Frontend   | [![My Skills](https://skillicons.dev/icons?i=react,figma,nextjs,tailwind)](https://github.com/karisakib/karisakib)        |
+|Backend |[![My Skills](https://skillicons.dev/icons?i=postman,aws,docker,dotnet,express,flask,githubactions)](https://github.com/karisakib/karisakib) |
+|Database | [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://github.com/karisakib/karisakib) |
+| Testing |[![My Skills](https://skillicons.dev/icons?i=selenium,gherkin,cypress,playwright)](https://github.com/karisakib/karisakib) |
 
-Frontend n' Tools
-[![My Skills](https://skillicons.dev/icons?i=react,figma,nextjs,tailwind)](https://github.com/karisakib/karisakib)
-
-Backend n' Tools
-[![My Skills](https://skillicons.dev/icons?i=postman,aws,docker,dotnet,express,flask,githubactions)](https://github.com/karisakib/karisakib)
-
-Databases n' Tools
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://github.com/karisakib/karisakib)
-
-Testing n' Tools
-[![My Skills](https://skillicons.dev/icons?i=selenium,gherkin,cypress,playwright)](https://github.com/karisakib/karisakib)
 
 You can find me on:
 
