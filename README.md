@@ -6,7 +6,7 @@ I build APIs, FullStack Apps, and Data Science apps.
 
 What I use:
 
-
+|||
 | ----------- | ----------- |
 | Languages   | [![My Skills](https://skillicons.dev/icons?i=js,ts,py,cs,java)](https://github.com/karisakib/karisakib)    |
 | Frontend    | [![My Skills](https://skillicons.dev/icons?i=react,figma,nextjs,tailwind)](https://github.com/karisakib/karisakib)        |
