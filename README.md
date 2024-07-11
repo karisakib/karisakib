@@ -14,7 +14,7 @@ Here's a total list of tools I use:
 
 | Syntax      | Icon |
 | ----------- | ----------- |
-| Languages      | [![My Skills](https://skillicons.dev/icons?i=js,ts,py,cs,java,latex,md)](https://github.com/karisakib/karisakib)    |
+| Languages      | [![My Skills](https://skillicons.dev/icons?i=js,ts,py,cs,java)](https://github.com/karisakib/karisakib)    |
 | Frontend   | [![My Skills](https://skillicons.dev/icons?i=react,figma,nextjs,tailwind)](https://github.com/karisakib/karisakib)        |
 |Backend |[![My Skills](https://skillicons.dev/icons?i=postman,aws,docker,dotnet,express,flask,githubactions)](https://github.com/karisakib/karisakib) |
 |Database | [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://github.com/karisakib/karisakib) |
@@ -22,7 +22,4 @@ Here's a total list of tools I use:
 
 
 You can find me on:
-
-My website: karisakib@gmail.com
-GitHub as @karisakib (you are here)
-LinkedIn
+My website: karisakib.com
