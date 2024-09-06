@@ -13,7 +13,7 @@ What I use:
 | Frontend    | [![My Skills](https://skillicons.dev/icons?i=react,tailwind)](https://github.com/karisakib/karisakib)        |
 | Backend     | [![My Skills](https://skillicons.dev/icons?i=express,flask)](https://github.com/karisakib/karisakib) |
 | Database    | [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://github.com/karisakib/karisakib) |
-| Infrastructure     | [![My Skills](https://skillicons.dev/icons?i=aws,docker,githubactions,circleci)](https://github.com/karisakib/karisakib) |
+| Infrastructure     | [![My Skills](https://skillicons.dev/icons?i=aws,docker,githubactions)](https://github.com/karisakib/karisakib) |
 | Testing     | [![My Skills](https://skillicons.dev/icons?i=selenium,gherkin,postman)](https://github.com/karisakib/karisakib) |
 
 
