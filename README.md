@@ -9,7 +9,7 @@ name: Kari Sakib
 located_in: USA
 current_job: Lead Tester
 education: [
- "Master's in Analytics",
+ # "Master's in Computer Science",
  "Bachelor's in Computer Science",
  "Innovation Fellowship: Data Science"
 ]
@@ -30,9 +30,9 @@ technical_background: [
 ]
 
 currently_learning: [
- "",
- "",
- ""
+ "Golang",
+ "AWS",
+ "System Design"
 ]
 
 current_goals: [
