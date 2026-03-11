@@ -1,54 +1,45 @@
-#### Hey there, I'm Kari — Web Weaver, Code Conjurer, Entrepreneur - market disruptor.
+profile:
+  identity:
+    name: Kari Sakib
+    role: Backend Engineer / System Architect
+    location: USA
+    status: Active
+    focus_areas:
+      - Distributed Systems
+      - High-Concurrency
+      - Scalable Infrastructure
 
+  core_competencies:
+    backend_engineering: >
+      Specialized in Golang for high-performance, concurrent service development 
+      and Node.js for rapid API iteration.
+    system_design: >
+      Architecting scalable, resilient systems with a focus on decoupling, 
+      message-driven patterns, and database optimization.
+    infrastructure_devops: >
+      Proficient in AWS environments, Cloudflare (Workers/Pages), and managed 
+      backend-as-a-service layers like Supabase.
+    quality_engineering: >
+      Advanced browser automation and E2E testing strategies using Playwright, 
+      grounded in lead-level QA experience.
 
-
-##### A Little About Me 
----
-```yaml
-name: Kari Sakib
-located_in: USA
-current_job: Lead Tester
-education: [
- # "Master's in Computer Science",
- "Bachelor's in Computer Science",
- "Innovation Fellowship: Data Science"
-]
-company: Pixel Prysm
-
-fields_of_interest: [
- "SaaS Development",
- "Web Development",
- "Product Development",
- "System Design",
- "Software Architecture",
-]
-
-technical_background: [
- "Lead Tester",
- "Lead QA Engineer",
- "Frontend Developer"
-]
-
-currently_learning: [
- "Golang",
- "AWS",
- "System Design"
-]
-
-current_goals: [
- "Learn Go for high performance backend programming",
- "Build 12 SaaS products in 12 months"
-]
-
-hobbies: ["Language learning","Teaching"]
-
-```
-
-Building sleek apps, powerful APIs, and bold ideas that aim to change the game.  
-
-Big things are in the works — stay curious.  
-
-
-
-Find me here:  
-🌐 [karisakib.com](https://karisakib.com)  
+  technical_stack:
+    languages:
+      - Golang
+      - JavaScript
+      - TypeScript
+      - SQL
+    backend:
+      - Node.js
+      - RESTful APIs
+      - System Architecture
+      - PostgreSQL
+    cloud_infrastructure:
+      - AWS
+      - Cloudflare (Pages/Workers)
+      - Supabase
+      - CI/CD
+    automation:
+      - Playwright
+      - Lead-level QA
+      - Integration Testing
